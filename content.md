@@ -131,7 +131,7 @@ Privacy & terms
 
 ######
 
-## Sections
+<!-- ## Sections -->
 
 <!-- (Looked at content (and amount of info) to figure out sections and ordering and combine some smaller and/or more logical groups of info)
 
