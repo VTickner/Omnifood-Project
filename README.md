@@ -22,8 +22,8 @@ The Omnifood project was designed by Jonas Schmedtmann (i.e. was a follow-along 
 
 ### Screenshot
 
-![Desktop screenshot](./images/desktop-screenshot.jpg)
-![Mobile screenshot](./images/mobile-screenshot.jpg)
+![Desktop screenshot](./img/desktop-screenshot.jpg)
+![Mobile screenshot](./img/mobile-screenshot.jpg)
 
 ### Links
 
