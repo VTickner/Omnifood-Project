@@ -35,7 +35,7 @@ Mobile:
 
 ## Process
 
--   This was a follow-along coding project but gave a lot of insight into how to approach various aspects of creating a responsive website.
+This was a follow-along coding project but gave a lot of insight into how to approach various aspects of creating a responsive website.
 
 ### Built with
 
