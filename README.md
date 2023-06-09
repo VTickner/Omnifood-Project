@@ -6,7 +6,7 @@ This project was part of [Jonas Schmedtmann's "Build Responsive Real-World Websi
 
 -   [Project Overview](#project-overview)
 -   [Omnifood Website](#omnifood-website)
-    -   [Screenshot](#screenshot)
+    -   [Screenshots](#screenshots)
     -   [Links](#links)
 -   [Process](#process)
     -   [Built with](#built-with)
@@ -20,9 +20,12 @@ The Omnifood project was designed by Jonas Schmedtmann (i.e. was a follow-along 
 
 ## Omnifood Website
 
-### Screenshot
+### Screenshots
 
+Desktop:
 ![Desktop screenshot](./img/desktop-screenshot.jpg)
+
+Mobile:
 ![Mobile screenshot](./img/mobile-screenshot.jpg)
 
 ### Links
