@@ -92,6 +92,6 @@ To put into practice using the techniques and processes learnt to help style and
 -   [Ionicons](https://ionic.io/ionicons) - Free, open source icon library.
 -   [Tint & Shade Generator](https://maketintsandshades.com/) - Free tool that calclulates tints and shades for your default colour, to enable you to create a cohesive colour scheme.
 -   [Coolers Colour Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5) - Free tool that allows you to check the colour contrast of the text to background colour for accessibility / readability purposes.
--   [Pexels Photos](https://www.pexels.com/) - Free stock royal free photos and images.
--   [Unsplash Photos](https://unsplash.com/) - Free stock royal free photos and images.
+-   [Pexels Photos](https://www.pexels.com/) - Free stock royalty free photos and images.
+-   [Unsplash Photos](https://unsplash.com/) - Free stock royalty free photos and images.
 -   [Squoosh App](https://squoosh.app/) - Free tool that reduces image sizes.
